@@ -4,6 +4,7 @@
     height: 61px;
     position: fixed;
     width: 100%;
+    
 z-index: 100;
 }
 .int_2{
@@ -16,7 +17,7 @@ z-index: 100;
 }
 .int_3{
     color: #ffffff;
-    border: 2px solid black;
+    border: 0px solid black;
    margin-left: 15px;
 
    
@@ -48,6 +49,7 @@ body{
     width: 4000px;
     height: 4000px;
     position: absolute;
+    
 }
 .int_6{
 
@@ -63,5 +65,5 @@ position: absolute;
 
 
 
-
 }
+
