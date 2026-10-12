@@ -50,6 +50,7 @@ body{
     height: 4000px;
     position: absolute;
     
+    
 }
 .int_6{
 
@@ -66,4 +67,46 @@ position: absolute;
 
 
 }
+.int_7{
 
+    display: inline-block;
+    /*border: 3px dotted cyan;    */
+    width: 200px;
+    background-color: #e8f8f5;
+    height: 50px;
+}
+
+.int_8{
+
+    border: 0.5px solid gray;
+    background-color: #ffffff;
+    color:#2c3e50 ;
+    width: 1177px ;
+    height: 353px;
+    margin-top: 166px;
+    z-index: -15;
+
+
+}
+
+#progress{
+
+    height: 100px;
+    width: 100%;
+    background-color: #237c5a;
+    position: sticky;
+    top: 0;
+    color: #ecf0f1;
+
+    z-index: 200;
+}
+.int_50{
+
+    border: 0.5px solid gray;
+    background-color: #ffffff;
+    color:#2c3e50 ;
+    width: 1177px ;
+    height: 453px;
+    margin-top: 166px;
+    z-index: -15;
+}
