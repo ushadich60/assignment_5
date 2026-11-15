@@ -114,16 +114,14 @@ position: absolute;
 #progress{
 
     height: 60px;
-    width: 100%;
     background-color: #1a2530;
-    position: sticky;
-    top: 0;
-    left: 0px;
-    right: 0px;
     color: #ecf0f1;
     margin: 0px;
+    position: sticky;
+    left: 0px;
+    top: 70px;
 
-    z-index: 102;
+    z-index: 12;
 }
 .int_50{
 
