@@ -11,22 +11,23 @@
 
 z-index: 100;
 }
-.int_2{
 
-
-    padding-top: 43px;
-
-}
 .int_3{
     color: #ffffff;
-    border: 0px solid black;
-   margin-left: 15px;
-    display: inline;
-   
-   
+    display: inline-block;
+    position: absolute;
+   left: 25px;
+   bottom: -10px;
     
 }
 
+
+.int_3>a{
+
+    margin-left: 19px;
+
+
+}
 a{
 
     color: white;
@@ -41,8 +42,10 @@ a:hover{
 .int_4{
 
     color: #ffffff;
-    margin-left: 600px;
-    display: inline;
+    display: inline-block;
+    position: absolute;
+    right: 20px;
+    bottom: 0px;
 }
 .int_5{
 
@@ -105,9 +108,9 @@ position: absolute;
 
 #progress{
 
-    height: 100px;
+    height: 60px;
     width: 100%;
-    background-color: #237c5a;
+    background-color: #1a2530;
     position: sticky;
     top: 0;
     left: 0px;
