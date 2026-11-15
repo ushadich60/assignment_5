@@ -1,7 +1,4 @@
-html{
 
-    position: relative;
-}
 
 .int_1{
 
@@ -13,17 +10,11 @@ html{
 z-index: 100;
 }
 .int_2{
-/*
-    display: flex;
-    color: ;
-    
-    justify-content: start;
-    position: relative;  */
 
 
     display: inline-block;
-    top: 42px;
-    left: 0px;
+    bottom:  0px;
+    left: 10px;
     position: absolute;
 }
 .int_3{
