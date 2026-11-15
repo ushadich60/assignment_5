@@ -54,9 +54,11 @@ a:hover{
     color:#2c3e50 ;
     width: 1177px ;
     height: 153px;
-    margin-top: 166px;
+    margin-top: 60px;
     z-index: -15;
     position: relative;
+    margin-left: auto;
+    margin-right: auto;
 }
 body{
 
@@ -100,8 +102,11 @@ position: absolute;
     color:#2c3e50 ;
     width: 1177px ;
     height: 353px;
-    margin-top: 166px;
+    margin-top: 60px;
     z-index: -15;
+    margin-left: auto;
+    margin-right: auto;
+
 
 
 }
@@ -127,6 +132,9 @@ position: absolute;
     color:#2c3e50 ;
     width: 1177px ;
     height: 453px;
-    margin-top: 166px;
+    margin-top: 60px;
     z-index: -15;
+
+    margin-left: auto;
+    margin-right: auto;
 }
